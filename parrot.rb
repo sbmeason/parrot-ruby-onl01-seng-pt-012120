@@ -14,4 +14,4 @@ def parrot
 end
 
 def parrot("Squawk")
-  
+  puts
